@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Hayat-Umar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Umar+Hayat;CIO+%40+Bookme;Scaling+travel-tech+across+PK,+KSA,+ZA+%26+PH;Backend+%E2%80%A2+Infra+%E2%80%A2+High-traffic+systems;Hands-on+since+2010" alt="Umar Hayat" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Umar+Hayat;CIO+%40+Bookme;Scaling+travel-tech+across+PK,+KSA,+ZA+%26+PH;Backend+%E2%80%A2+Infra+%E2%80%A2+High-traffic+systems;Hands-on+since+2010" alt="Umar Hayat" />
 </a>
 
 </div>
